@@ -1,5 +1,5 @@
 # My solutions 
-to the FrontendMasters Node/Express/Mongo API building Tutorial on Lynda
+Exercises from the FrontendMasters Node/Express/Mongo API building Tutorial on Lynda
 
 
 ## Getting started
